@@ -1,0 +1,9 @@
+# how to install git in ubuntu 22.04
+
+	1. Open terminal - ctrl+alt+t
+	2. update the system package list - 
+		$sudo apt-get update
+	3. install git
+		$sudo apt-get install git
+	4. verify the version of git installed
+		$ git --version
